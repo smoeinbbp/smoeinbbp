@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Software Engineer. my mainly focus on Python and Elixir. I love distributed processing and and new technologies.
+
+[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=smoeinbbp&count_private=true&theme=onedark)](https://github.com/smoeinbbp)
+
 <!--
 **smoeinbbp/smoeinbbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
