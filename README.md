@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer. my mainly focus on Python and Elixir. I love distributed processing and and new technologies.
+I'm a Software Engineer. my mainly focus is on Python and Elixir. I love distributed processing and and new technologies.
 
 [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=smoeinbbp&count_private=true&theme=onedark)](https://github.com/smoeinbbp)
 
