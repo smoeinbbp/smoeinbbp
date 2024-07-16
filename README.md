@@ -4,6 +4,9 @@ I'm a Software Engineer. My mainly focus is on Python and Elixir. I love distrib
 
 [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=smoeinbbp&count_private=true&theme=onedark)](https://github.com/smoeinbbp)
 
+[![Contributions](https://github-readme-stats.vercel.app/api?username=smoeinbbp&count_private=true&theme=onedark)](https://github.com/smoeinbbp)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smoeinbbp&theme=onedark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 <!--
 **smoeinbbp/smoeinbbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
