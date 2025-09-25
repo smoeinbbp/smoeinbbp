@@ -3,8 +3,6 @@
 I'm a Software Engineer. My mainly focus is on Python <a href="https://python.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> and Elixir <a href="https://elixir-lang.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="25" height="25"/> </a>.
 I love distributed processing and new technologies.
 
-[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=smoeinbbp&count_private=true&theme=onedark)](https://github.com/smoeinbbp)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smoeinbbp&theme=onedark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
