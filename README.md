@@ -3,8 +3,6 @@
 I'm a Software Engineer. My mainly focus is on Python <a href="https://python.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> and Elixir <a href="https://elixir-lang.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="25" height="25"/> </a>.
 I love distributed processing and new technologies.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smoeinbbp&theme=onedark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 <!--
 **smoeinbbp/smoeinbbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
